@@ -1,6 +1,6 @@
 # Internal representations analysis in spiking neural networks
 
-This repository refers to my master's thesis, titled "Internal representations analysis in spiking neural metworks", defended on 18/04/2024 at the Institute of Physics, University of São Paulo.
+This repository refers to my master's thesis, titled "Internal representations analysis in spiking neural networks", defended on 18/04/2024 at the Institute of Physics, University of São Paulo.
 
 **Access to the dissertation:** http://www.teses.usp.br/autor.php?autor=67A9F6739BB6
 
